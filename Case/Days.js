@@ -30,4 +30,8 @@ switch(number) {
     case 6:
         console.log("Day is: Saturday")
     break;
+
+    default:
+        console.log("INVALID!!!")
+        break;
 }

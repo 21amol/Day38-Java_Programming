@@ -43,5 +43,8 @@ switch(singleNumber) {
     case 9:
         console.log("Number is: NINE")
         break;
-    }
     
+     default:
+        console.log("INVALID!!!!")
+        break;   
+}
